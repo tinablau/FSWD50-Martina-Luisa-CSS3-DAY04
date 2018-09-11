@@ -1,0 +1,26 @@
+.images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; }
+
+figure img {
+  height: 200px;
+  width: 200px; }
+
+div {
+  font-family: arial;
+  display: flex;
+  flex-direction: row;
+  color: gray; }
+
+body {
+  font-family: arial; }
+
+h1 {
+  text-align: center; }
+
+h2 {
+  text-align: center;
+  color: gray; }
+
+/*# sourceMappingURL=int.css.map */
